@@ -16,14 +16,7 @@ This project is a single-page website dedicated to some of the most iconic Marve
 ## How to Use
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/marvel-project.git
+    git clone https://github.com/DvirUliel/Css-first-project-Marvel.git
+    cd Css-first-project-Marvel
     ```
 2. Open `marvel_project.html` in your browser.
-
-## Live Preview
-[Live Demo Link](#) <!-- Add the link to your live website if hosted -->
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-&copy; 2024 Dvir Uliel
