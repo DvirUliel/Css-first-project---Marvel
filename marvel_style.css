@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+body .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+body nav ul {
+    list-style: none;
+    display: flex;
+}
+
+body nav ul li {
+    float: left;
+    margin-left: 200px;
+}
+
+body nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+#box{
+    width:-webkit-fill-available;
+    height:700px;
+    background-image: url(https://wallpapercave.com/wp/wp1886659.jpg);
+    background-size: cover;
+    display: inline-block;
+    color: white;
+    text-align:justify;
+    padding: 50px;
+    font-size: 20px;
+}
+#box-pic{
+    width: 276px;
+    height: 650px;
+    border:1px solid white;
+    box-shadow: 6px 6px 15px white;
+    margin: 25px 150px 25px 150px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.character-pic{
+    width: 276px;
+    height: 414px;
+    background-size: cover;
+}
+.deadpool{
+    background-image: url(https://m.media-amazon.com/images/I/61pVI68ug-L.jpg);
+}
+.wolverine{
+    background-image: url(https://i.pinimg.com/736x/2b/8c/4b/2b8c4b19c1cd47ec0d907ac2be1028dc.jpg);
+}
+.button{
+    background-color: white;
+    border: none;
+    color:black;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+}
